@@ -9,4 +9,4 @@ resources:
 images:
 - name: myanjini/hello-app
   newName: goodeeproject/hello-app
-  newTag: c87a2d0
+  newTag: caaa9f4
